@@ -17,3 +17,4 @@ If you want to fix bugs, I would be happy. If you want a feature to be added, op
 If you like to know anythink about the project contact me at philipheinser@me.com
 
 ###This is my first open source project on Github. I hope you like it.
+    
